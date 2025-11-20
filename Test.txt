@@ -1,0 +1,11 @@
+
+Platelet	180.00
+RBC	200.00
+Blood_Sugar(F/R)	200.00
+Bilirubin	270.00
+Lipid_Profile	1200.00
+ECG	300.00
+Echo_Color_Doppler	2200.00
+Ultrasound(Whole_Abdomen)	1000.00
+X-Ray(Chest)	500.00
+CT_Scan(Brain_Contrast)	4000.00                                                        
